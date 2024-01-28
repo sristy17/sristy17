@@ -38,7 +38,7 @@
 </div>
 
 ---
-### :man_technologist: Connect With Me :
+<h1> :man_technologist: Connect With Me : </h1>
 <div id="badges" align="center">
   </a>
   <a href="https://www.twitter.com/SristyPaul17">
@@ -63,7 +63,7 @@
 </div>
 
 ---
-### :fire: My Stats :
+<h1> :fire: My Stats : </h1>
 <div align="center">
   
 
