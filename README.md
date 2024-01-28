@@ -2,7 +2,7 @@
   
  <h1 align="center">Hi, I am Sristy! </h1>
  
-
+---
 # 💫 About Me:
 
 - 🔭 I’m currently b-tech cse student
