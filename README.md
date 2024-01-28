@@ -1,6 +1,13 @@
+<div align='center'>
+  <img src='https://github.com/antilneeraj/antilneeraj/blob/home/Programmer.png' height='250px' width='250px' />
+</div>
+ 
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font='trebuchet+ms'&color=61ed44&duration=4000&pause=1000&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Sristy;A+passionate+developer+!" alt="Hey! 👋" /></a>
+</div>
   
- <h1 align="center">Hi, I am Sristy! </h1>
+
  
 ---
 # 💫 About Me:
