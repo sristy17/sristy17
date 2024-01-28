@@ -10,7 +10,7 @@
 # 💫 About Me:
 
 - 🔭 I’m currently b-tech cse student
-- 🌱 I’m currently learning Full-Stack Web-Dev
+- 🌱 I’m currently learning Full-Stack Development
 - 😄 Pronouns: she/her
 
 
