@@ -52,6 +52,8 @@
   </a>
   <a href="https://www.linkedin.com/in/sristy-paul">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <a href="https://www.kaggle.com/in/sristypaul">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
 
 </div>
 <div align="center">
