@@ -12,9 +12,9 @@
 ---
 # 💫 About Me:
 
-- 🔭 I’m currently b-tech cse student
+- 🔭 I’m currently B-Tech [CSE] Student
 - 🌱 I’m currently learning Full-Stack Development
-- 😄 Pronouns: she/her
+- 😄 Pronouns: She/Her
 
 ---
 
