@@ -1,19 +1,15 @@
-<div align="center">
+
   
  <h1 align="center">Hi, I am Sristy! </h1>
-
-
-</div>
-
- ---
  
+
 # 💫 About Me:
 
 - 🔭 I’m currently b-tech cse student
 - 🌱 I’m currently learning Full-Stack Development
 - 😄 Pronouns: she/her
 
-
+---
 
 # 💻 Tech Stack:
 <div align="center">
