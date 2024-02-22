@@ -80,6 +80,8 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sristy17&theme=blue-green)
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sristy17&theme=github-dark)](https://git.io/streak-stats)
+
 [![Sristy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sristy17&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
