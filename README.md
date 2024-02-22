@@ -60,7 +60,7 @@
 
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350"/>
+  <img src="https://en.idei.club/uploads/posts/2023-06/1687320073_en-idei-club-p-programming-background-dizain-pinterest-4.png" width="350"/>
 </div>
 <br>
 
