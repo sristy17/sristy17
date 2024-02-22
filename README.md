@@ -74,20 +74,9 @@
   
 
   
- </div>
- 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sristy17&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ ![Sristy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sristy17&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sristy17&layout=compact&theme=react&border_color=61ed44&bg_color=0d1117&title_color=6ec6de)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sristy17&show_icons=true&locale=en&theme=default" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sristy17&hide=jupyter%20notebook&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
+[![Sristy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sristy17&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
