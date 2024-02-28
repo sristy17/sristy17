@@ -83,7 +83,7 @@
 
  ![GitHub Streak](https://streak-stats.demolab.com?user=sristy17&theme=github-dark)
 
-//![Sristy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sristy17&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)
+![Sristy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sristy17&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)
 ---
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
