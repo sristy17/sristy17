@@ -91,11 +91,11 @@
 
 🚀 Contributor at
 <a href="https://certificate.givemycertificate.com/c/5b1c8258-8ccd-4147-9e03-c478388a31e4">
-<img  src="https://img.shields.io/badge/JWoC-darkblue?style=for-the-badge&logo=JWoC&logoColor=white" alt="JWoC Badge" align="center" />
+<img  src="https://img.shields.io/badge/JWoC'24-darkblue?style=for-the-badge&logo=JWoC'24&logoColor=white" alt="JWoC'24 Badge" align="center" />
 
 🌟 Contributor at
 <a href="https://github.com/sristy17/sristy17/blob/5dd06f162a1047304fbd478082f3024431bfcbed/sristy.pdf"> 
-<img  src="https://img.shields.io/badge/Codepeak-blue?style=for-the-badge&logo=Codepeak&logoColor=white" alt="Codepeak Badge"  align="center"/>
+<img  src="https://img.shields.io/badge/Codepeak'23-blue?style=for-the-badge&logo=Codepeak'23&logoColor=white" alt="Codepeak'23 Badge"  align="center"/>
 
 ---
 
