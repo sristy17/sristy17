@@ -87,6 +87,17 @@
 
 ---
 
+<h1>⚡ Open Source Programs </h1>
+
+🚀 Contributor at
+<a href="https://certificate.givemycertificate.com/c/5b1c8258-8ccd-4147-9e03-c478388a31e4">
+<img  src="https://img.shields.io/badge/JWoC-darkblue?style=for-the-badge&logo=JWoC&logoColor=white" alt="JWoC Badge" align="center" />
+
+🌟 Contributor at
+<a href="https://www.codepeak.tech/"> 
+<img  src="https://img.shields.io/badge/Codepeak-blue?style=for-the-badge&logo=Codepeak&logoColor=white" alt="Codepeak Badge"  align="center"/>
+
+
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 
 
