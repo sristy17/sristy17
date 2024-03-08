@@ -94,7 +94,7 @@
 <img  src="https://img.shields.io/badge/JWoC-darkblue?style=for-the-badge&logo=JWoC&logoColor=white" alt="JWoC Badge" align="center" />
 
 🌟 Contributor at
-<a href="https://www.codepeak.tech/"> 
+<a href="https://github.com/sristy17/sristy17/blob/main/sristy.pdf"> 
 <img  src="https://img.shields.io/badge/Codepeak-blue?style=for-the-badge&logo=Codepeak&logoColor=white" alt="Codepeak Badge"  align="center"/>
 
 
