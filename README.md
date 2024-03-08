@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='https://github.com/sristy17/sristy17/blob/main/picture.jpeg' height='250px' width='250px' />
+  <img src='https://github.com/sristy17/sristy17/blob/5dd06f162a1047304fbd478082f3024431bfcbed/picture.jpeg' height='250px' width='250px' />
 </div>
  
 
