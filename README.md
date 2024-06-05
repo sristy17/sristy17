@@ -86,14 +86,10 @@
   ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
   <h1 align="left"> :fire: My Stats: </h1>
   <div align="center"> 
-    <!-- Streak Counter -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sristy17&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
-    <!-- Most Used Languages -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sristy17&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
-    <!-- Contributor Stats -->
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sristy17&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+  
+    
     <!-- Stats -->
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sristy17&theme=2077" height="210em" alt="Stats" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sristy17&theme=2077" height="210em" alt="Stats" />
     <!-- Top languages by commit -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sristy17&theme=2077" height="210em" alt="Top languages by commit" />
     <!-- Top languages by repo -->
