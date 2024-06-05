@@ -88,7 +88,7 @@
   <div align="center"> 
   
     
-    <!-- Stats -->
+ 
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sristy17&theme=2077" height="210em" alt="Stats" />
     <!-- Top languages by commit -->
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sristy17&theme=2077" height="210em" alt="Top languages by commit" />
