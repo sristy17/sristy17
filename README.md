@@ -76,11 +76,16 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<h1> :fire: My Stats: </h1>
+<h1>  🏆 Github Trophies: </h1>
 <div align="center">
   <a href="https://github.com/sristy17">
-    <!-- Trophies -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sristy17&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+ <!-- Trophies -->
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sristy17&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+
+
+  ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+  <h1 align="left"> :fire: My Stats: </h1>
+  <div align="center"> 
     <!-- Streak Counter -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sristy17&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
     <!-- Most Used Languages -->
