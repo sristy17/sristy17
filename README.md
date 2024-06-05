@@ -9,14 +9,16 @@
   
 
  
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 # 💫 About Me:
 
 - 🔭 I’m currently B-Tech [CSE] Student
 - 🌱 I’m currently learning Full-Stack Development
 - 😄 Pronouns: She/Her
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 
 # 💻 Tech Stack:
 <div align="center">
@@ -45,7 +47,8 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code" />
 </div>
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h1> 🌐 Socials: </h1>
 <div id="badges" align="center">
   </a>
@@ -71,21 +74,34 @@
 <div align="center">
 </div>
 
----
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h1> :fire: My Stats: </h1>
 <div align="center">
-  
+  <a href="https://github.com/sristy17">
+    <!-- Trophies -->
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=sristy17&theme=onestar&no-frame=true&margin-w=5&margin-h=5&row=2&column=5" height="300em" alt="trophy" /> <br />
+    <!-- Streak Counter -->
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sristy17&theme=nightowl&hide_border=true&fire=DD2727" height="250em" alt="Streak Counter" /> <br />
+    <!-- Most Used Languages -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sristy17&color=0e75b6&style=flat&theme=radical&hide_border=true" height="320em" alt="Most used languages" />
+    <!-- Contributor Stats -->
+    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=sristy17&limit=10&theme=radical&combine_all_yearly_contributions=true&hide_border=true" height="320em" alt="Contributor Stats" /> <br />
+    <!-- Stats -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sristy17&theme=2077" height="210em" alt="Stats" />
+    <!-- Top languages by commit -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sristy17&theme=2077" height="210em" alt="Top languages by commit" />
+    <!-- Top languages by repo -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sristy17&theme=2077" height="210em" alt="Top languages by repo" />
+    <!-- Histogram of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sristy17&theme=2077" height="210em" alt="Histogram of Commits" />
+    <!-- Graph of Commits -->
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sristy17&theme=2077" height="210em" alt="Graph of Commits" />
+  </a>
+</div>
 
-  
- ![Sristy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sristy17&show_icons=true&theme=react&border_color=61ed44&bg_color=0d1117)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sristy17&theme=blue-green)
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
- <!--![GitHub Streak](https://streak-stats.demolab.com?user=sristy17&theme=github-dark)
-![Sristy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sristy17&bg_color=0d1117&color=61ed44&line=5fd3f4&point=5fd3f4&area=true&hide_border=true)--->
-
-
----
 
 <h1 align="left"> 📃Open Source Programs: </h1>
 
@@ -97,13 +113,9 @@
 <a href="https://github.com/sristy17/sristy17/blob/5dd06f162a1047304fbd478082f3024431bfcbed/sristy.pdf"> 
 <img  src="https://img.shields.io/badge/Codepeak'23-blue?style=for-the-badge&logo=Codepeak'23&logoColor=white" alt="Codepeak'23 Badge"  align="center"/>
 
----
-
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-
-
-
 
 
 
