@@ -63,7 +63,6 @@
   <tr>
     <td>Development Tools/IDEs:</td>
     <td><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code" /></td>
-    <td><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></td>
   </tr>
 
   
