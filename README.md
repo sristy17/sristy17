@@ -3,7 +3,9 @@
 </div>
 <h3>About Me</h3>
 Hello there! I’m Sristy 👋, a passionate developer 💻 and enthusiastic open-source contributor 🌟. I love building scalable applications 🚀 and diving into new technologies to tackle real-world challenges 🔍. My journey in programming started with a fascination for crafting elegant solutions ✨ and has grown into a deep-seated passion for software development ❤️. Feel free to explore my projects and join me on this exciting journey! 🚀🌍
-
+<br>
+<br>
+ <a href="https://sristy.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139"/></a>
 
 <h3>Tech Stack</h3>
 Technologies I work with:
